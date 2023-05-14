@@ -12,6 +12,10 @@
 - If you're seeking perfection, *look elsewhere*...
 - I like educating. This keeps me honest.
 
+### Every Recording
+- Corresponding GitHub repo
+- Prefixed with **omyatc-**
+
 ### Tech Background
 - [\> 40 years experience](https://archive.org/details/commodore-power-play-08/page/n93/mode/2up?view=theater)
 - C++ is my love language
