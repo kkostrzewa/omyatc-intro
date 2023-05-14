@@ -25,6 +25,7 @@
 - Ridiculous number of children
 - [Wu style T'ai Chi Ch'uan](https://www.reddit.com/r/kzoo_taichi/)
 - Music - mandolin, piano, whütnot
+- Chickens - why not?
 - [Biking](https://www.michigan.org/property/kal-haven-trail-state-park)
 - Cooking - Veg stuff in blog
 
